@@ -1,0 +1,23 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "loyihacha",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alimardon-dev/nodeJS_4.git"
+  },
+  "author": "alimardon-dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alimardon-dev/nodeJS_4/issues"
+  },
+  "homepage": "https://github.com/alimardon-dev/nodeJS_4#readme",
+  "dependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
