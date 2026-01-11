@@ -23,3 +23,7 @@ app.use()
         It registers a middleware
 app.set()
         It is basically setting management. Helps to give values for preserved keys(port: 3000)
+
+
+GIT
+git init 
